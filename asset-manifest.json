@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/francoislagier/vaccin-covid-13-scan/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/francoislagier/vaccin-covid-13-scan/static/js/main.bdd23573.chunk.js",
+    "main.js.map": "/francoislagier/vaccin-covid-13-scan/static/js/main.bdd23573.chunk.js.map",
+    "runtime-main.js": "/francoislagier/vaccin-covid-13-scan/static/js/runtime-main.480a71bd.js",
+    "runtime-main.js.map": "/francoislagier/vaccin-covid-13-scan/static/js/runtime-main.480a71bd.js.map",
+    "static/js/2.afefa77d.chunk.js": "/francoislagier/vaccin-covid-13-scan/static/js/2.afefa77d.chunk.js",
+    "static/js/2.afefa77d.chunk.js.map": "/francoislagier/vaccin-covid-13-scan/static/js/2.afefa77d.chunk.js.map",
+    "static/js/3.2486bc50.chunk.js": "/francoislagier/vaccin-covid-13-scan/static/js/3.2486bc50.chunk.js",
+    "static/js/3.2486bc50.chunk.js.map": "/francoislagier/vaccin-covid-13-scan/static/js/3.2486bc50.chunk.js.map",
+    "index.html": "/francoislagier/vaccin-covid-13-scan/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/francoislagier/vaccin-covid-13-scan/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.afefa77d.chunk.js.LICENSE.txt": "/francoislagier/vaccin-covid-13-scan/static/js/2.afefa77d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/francoislagier/vaccin-covid-13-scan/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.480a71bd.js",
+    "static/js/2.afefa77d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bdd23573.chunk.js"
+  ]
+}
